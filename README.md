@@ -2,4 +2,4 @@ Hello, my name is Carl and I am a student who is currently studying T-Level Digi
 
 ![spongebob typing at computer](https://github.com/CarlBaines/CarlBaines/assets/113366630/831449fb-c10f-4114-8139-0775b9382398)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carl&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlBaines&theme=dark&show_icons=true)
