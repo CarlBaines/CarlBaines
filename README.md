@@ -2,6 +2,6 @@ Hello, my name is Carl and I am a student who is currently studying T-Level Digi
 
 Languages currently studying:
 <br>
-[![My Skills](https://skillicons.dev/icons?i=py,cs,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,sqlite&theme=dark)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlBaines&theme=dark&show_icons=true)
