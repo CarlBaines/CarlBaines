@@ -5,4 +5,3 @@ Languages Studied/Currently Studying:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,sqlite&theme=dark)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlBaines&theme=dark&show_icons=true)
