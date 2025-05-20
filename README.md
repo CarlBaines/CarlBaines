@@ -3,5 +3,5 @@ Hello, my name is Carl and I am a student who is currently studying Computer Sci
 My Skills:
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,java,py,cs,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,js,java,py,cs,sqlite&theme=dark)](https://skillicons.dev)
 
