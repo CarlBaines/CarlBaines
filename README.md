@@ -3,5 +3,5 @@ Hello, my name is Carl and I am a student who is going into their second year of
 My Skills:
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,js,java,py,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,js,nodejs,java,py,mysql&theme=dark)](https://skillicons.dev)
 
